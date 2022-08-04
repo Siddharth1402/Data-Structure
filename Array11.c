@@ -22,7 +22,7 @@ void main()
         for(i=0;i<no_of_elements;i++)
         {
             n=array[i];
-            a=n%10;
+            a=0;
             
             while(n!=0)
             {
