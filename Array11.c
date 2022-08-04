@@ -23,7 +23,7 @@ void main()
         {
             n=array[i];
             a=n%10;
-            n=n/10;
+            
             while(n!=0)
             {
                 a=a*10+(n%10);
