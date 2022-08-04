@@ -1,7 +1,6 @@
 /*
 Title- Write a C program to sort first half of array in ascending order and second half of
 array in descending order.
-than , greater than and equal to zero.
 
 */ 
  
