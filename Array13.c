@@ -1,7 +1,6 @@
 /*
 Title- Write a C program to copy the elements of one array into another array.
-than , greater than and equal to zero.
-)
+
 */ 
 
 #include<stdio.h>
