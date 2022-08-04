@@ -1,6 +1,6 @@
 /*
 Title- Write a C program that return the positions of the pallindrome element in array.
-than , greater than and equal to zero.
+
 
 */ 
 
